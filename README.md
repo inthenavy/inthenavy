@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! 👋 I'm Navy!
+![IMG_6602](https://user-images.githubusercontent.com/116046893/198782721-86aa8feb-6cd6-46e3-8e3a-0e503071ad24.JPG)
+
+📓✏️ I'm currently learning Javascript. I started with HTML and CSS early this year and got excited so I decided to keep learning.🌸
+
+🎶🎤 I'm a musician and dedicated most of my life to music (if you're curious about it you can visit my youtube channel 😄).
+
+💻 Where to find me? 🔎: [Twitter](https://twitter.com/frambuesaurio) [Instagram](https://www.instagram.com/hellonavy90/) [Youtube](https://www.youtube.com/channel/UC20tbKxzsxJxi5BF1A_koFA)
 
 <!--
 **inthenavy/inthenavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
