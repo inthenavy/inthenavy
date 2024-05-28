@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Navy!
-![IMG_6602]([https://user-images.githubusercontent.com/116046893/198782721-86aa8feb-6cd6-46e3-8e3a-0e503071ad24.JPG](https://www.linkedin.com/in/navyflores/overlay/background-image/?trk=opento_sprofile_details)
+![I'm navy](https://media.licdn.com/dms/image/D4D16AQGosPoG5zFdgg/profile-displaybackgroundimage-shrink_350_1400/0/1716929439796?e=1722470400&v=beta&t=wXOmq0fjLkRyjARpekRAiw7JQdTRAPtZMycdBryNklM)
 
 📓✏️ FullStack Developer in process...🌸
 
